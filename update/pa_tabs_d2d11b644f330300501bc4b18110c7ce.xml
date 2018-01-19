@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">d2d11b644f330300501bc4b18110c7cc</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">96d11b644f330300501bc4b18110c7cb</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 16:43:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2d11b644f330300501bc4b18110c7ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="safety" source="x_186756_safety">ee4cb4644f330300501bc4b18110c740</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="safety">ee4cb4644f330300501bc4b18110c740</sys_scope>
+        <sys_update_name>pa_tabs_d2d11b644f330300501bc4b18110c7ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 16:43:07</sys_updated_on>
+    </pa_tabs>
+</record_update>
